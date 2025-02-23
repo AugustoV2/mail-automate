@@ -14,8 +14,8 @@ SENDER_PASSWORD = os.getenv("SENDER_PASSWORD")
 RECIPIENTS_FILE = 'recipients.txt'
 
 
-SUBJECT = 'Myreee'
-BODY = 'Pyhton mail automate cheyydh :)'
+SUBJECT = 'SUbject hehe'
+BODY = 'Pyhton mail automate  :)'
 
 def send_email(sender, password, recipients, subject, body):
     try:
